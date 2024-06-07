@@ -9,7 +9,7 @@ class Translation(object):
 ɪ ᴄᴀɴ ғᴏʀᴡᴀʀᴅ ᴀʟʟ ᴍᴇssᴀɢᴇ ғʀᴏᴍ ᴏɴᴇ ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴀɴᴏᴛʜᴇʀ ᴄʜᴀɴɴᴇʟ</i> <b>➜ ᴡɪᴛʜ ᴍᴏʀᴇ ғᴇᴀᴛᴜʀᴇs.
 ᴄʟɪᴄᴋ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ</b>
 
-<b>👨🏼‍💻 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ: <a href='https://t.me/Vishalku25'>Vɪsʜᴀʟ Kᴜᴍᴀʀ</a>🥀</b>"""
+<b>👨🏼‍💻 ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/Vishalku25">Vɪsʜᴀʟ Kᴜᴍᴀʀ</a></b>"""
 
 
   HELP_TXT = """<b><u>🔆 HELP</b></u>
@@ -41,7 +41,7 @@ class Translation(object):
   
   ABOUT_TXT = """<b>╭──────❰ 🤖 Bot Details ❱──────〄
 │ 
-│ 🤖 Mʏ Nᴀᴍᴇ : <a href=https://t.me/Jisshu_forward_bot>Tᴍʀ ᴀᴜᴛᴏ ғᴏʀᴡᴀʀᴅ™</a>
+│ 🤖 Mʏ Nᴀᴍᴇ : <a href=https://t.me/TMR_Auto_Forward_Bot>Tᴍʀ ᴀᴜᴛᴏ ғᴏʀᴡᴀʀᴅ™</a>
 │ 👨‍💻 ᴅᴇᴠᴘʟᴏᴇʀ : <a href=https://t.me/Vishalku25>Vɪsʜᴀʟ Kᴜᴍᴀʀ</a>
 │ 🤖 ᴜᴘᴅᴀᴛᴇ  : <a href=https://t.me/TMR_update_channel>Jᴏɪɴ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ </a>
 │ 📡 ʜᴏsᴛ ᴏɴ : <a href=https://www.hetzner.com/>ʜᴇᴛᴢɴᴇʀ</a>
