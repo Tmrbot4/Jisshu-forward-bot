@@ -9,7 +9,7 @@ class Translation(object):
 ɪ ᴄᴀɴ ғᴏʀᴡᴀʀᴅ ᴀʟʟ ᴍᴇssᴀɢᴇ ғʀᴏᴍ ᴏɴᴇ ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴀɴᴏᴛʜᴇʀ ᴄʜᴀɴɴᴇʟ</i> <b>➜ ᴡɪᴛʜ ᴍᴏʀᴇ ғᴇᴀᴛᴜʀᴇs.
 ᴄʟɪᴄᴋ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ</b>
 
-<b>👨🏼‍💻 ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/Vishalku25">Vɪsʜᴀʟ Kᴜᴍᴀʀ</a></b>"""
+<b>👨🏼‍💻 ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/TMR_update_channel">TMR</a></b>"""
 
 
   HELP_TXT = """<b><u>🔆 HELP</b></u>
